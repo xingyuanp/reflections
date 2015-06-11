@@ -30,6 +30,8 @@ organized? How would branches help?
 
 How do the diagrams help you visualize the branch structure?
 
+	Of cause the diagrams help with visualization. That is what a diagram is.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
