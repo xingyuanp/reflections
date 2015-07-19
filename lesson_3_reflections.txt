@@ -34,4 +34,7 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    When I need to try some new features and I don't want to change the
+    production code in the master branch, I can make changes in a separate
+    branch. This is a little bit harder to do but it can make sure that the
+    master branch is not interrupted.
